@@ -18,8 +18,8 @@ const instagram = 'https://www.instagram.com/zolay_31';
 const telegram = 'https://t.me/ZOLAY_31'; 
 const kapanbotaktif = 'Jam 07.00-22.00'; 
 const youtube = 'https://youtube.com/channel/UC9Jta2AfRlxpUBd8UNtI0Yg';
-//const grupch1 = ' https://chat.whatsapp.com/E4KZMUKo8sBAeZfDxnIDIh'; 
-//const grupch2 = 'https://chat.whatsapp.com/LP7FbOuDrEdKSkQM7u87ZD' ; 
+const grupch1 = ' https://chat.whatsapp.com/E4KZMUKo8sBAeZfDxnIDIh'; 
+const grupch2 = 'https://chat.whatsapp.com/LP7FbOuDrEdKSkQM7u87ZD' ; 
 const
 {
    WAConnection,
@@ -112,76 +112,76 @@ else if (text == 'Assalamualaikum'){
 conn.sendMessage(id, ' _Waalaikumsalam, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'p'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _pe pe pe salam ajg lu gak punya agama kontol?_ ' ,MessageType.text);
 }
 else if (text == 'P'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _pe pe pe salam ajg lu gak punya agama kontol? ' ,MessageType.text);
 }
 else if (text == 'Halo'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Halo sayang_ ' ,MessageType.text);
 }
 else if (text == 'Asu'){
-conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
+conn.sendMessage(id, 'Lu Asw muka lu kaya memek GK suka yeee ngentot.' ,MessageType.text);
 }
-else if (text == '#owner'){
+else if (text == '!owner'){
 conn.sendMessage(id, ' *Owner ZOLAYBOT wa.me/+6281999971634* ' ,MessageType.text);
 }
-else if (text == '#help'){
-conn.sendMessage(id, ' *Menampilkan Pilihan !Menu* ' ,MessageType.text);
+else if (text == '!help'){
+conn.sendMessage(id, ' *Menampilkan fitur !Menu* ' ,MessageType.text);
 }
 else if (text == '#menu'){
 conn.sendMessage(id, ' *Menampilkan Fitur !Menu* ' ,MessageType.text);
 }
 else if (text == '#info'){
-conn.sendMessage(id, ' *Menampilkan Info!!!* ' ,MessageType.text);
+conn.sendMessage(id, ' *untuk Menampilkan !Info* ' ,MessageType.text);
 }
 else if (text == '#donasi'){
-conn.sendMessage(id, ' *Menampilkan !Donasi* ' ,MessageType.text);
+conn.sendMessage(id, ' *untuk Menampilkan !Donasi* ' ,MessageType.text);
 }
 else if (text == '#creator'){
 conn.sendMessage(id, ' *Creator ZOLAYBOT wa.me/+6281999971634* ' ,MessageType.text);
 }
 else if (text == 'Pagi'){
-conn.sendMessage(id, ' _Pagi juga, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Pagi juga sayang, sayang pap dong  _ ' ,MessageType.text);
 }
 else if (text == 'Siang'){
-conn.sendMessage(id, ' _Siang juga, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Siang juga sayang, sayang pap TT nya dong aku cangeಥ_ಥ_ ' ,MessageType.text);
 }
 else if (text == 'Sore'){
-conn.sendMessage(id, ' _Sore juga, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Sore juga sayang, sayang pap memeknya dong aku change(´ . .̫ . `)_ ' ,MessageType.text);
 }
 else if (text == 'Malam'){
-conn.sendMessage(id, ' _Malam juga, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Malam juga sayang, sayang tidur udah malem besok kita vcs(◕દ◕)_ ' ,MessageType.text);
 }
 else if (text == 'Ngentod'){
-conn.sendMessage(id, 'Pengin ngentod? babi looo' ,MessageType.text);
+conn.sendMessage(id, 'Pengin ngentod? babi looo , ngentot sama lonT sono' ,MessageType.text);
 }
 else if (text == 'Anjing'){
-conn.sendMessage(id, 'Jangan toxic anjing,kntl,babi,monyet' ,MessageType.text);
+conn.sendMessage(id, 'Jangan toxic anjing,kntl,babi,monyet,ngntot ajg si kontol' ,MessageType.text);
 }
 else if (text == 'Bacot'){
-conn.sendMessage(id, ' *lu bacot_-* ' ,MessageType.text);
+conn.sendMessage(id, ' *bacot kontol si ajg banyak gaya-* ' ,MessageType.text);
 }
 else if (text == 'Test'){
 conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
 }
 else if (text == 'Hai'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _hai sayangg lopyu_ ' ,MessageType.text);
 }
 else if (text == 'Woi'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _Woi woi woi mata lu pecak kontol yang sopan dikit_ ' ,MessageType.text);
 }
-else if (text == 'Eoy'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+else if (text == 'oy'){
+conn.sendMessage(id, ' _oy juga men_ ' ,MessageType.text);
 }
 else if (text == 'Hi'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _hi sayangg aku cinta kamu lopyu sayangg_ ' ,MessageType.text);
 }
 else if (text == 'Gan'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _oke gan ketik !menu buat liat fiturnya gan_ ' ,MessageType.text);
 }
 else if (text == 'Sis'){
-conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
+conn.sendMessage(id, ' _bacot ngentot gw bukan ibu ibu sosialita atau banci gw bot asuuu_ ' ,MessageType.text);
 }
 else if (text == 'Bro'){
 conn.sendMessage(id, ' _Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
