@@ -13,11 +13,11 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'ZolayBot'; 
-const instagram = 'https://www.instagram.com/zolay_31'; 
-const telegram = 'https://t.me/ZOLAY_31'; 
+const BotName = 'FatoniGans'; 
+const instagram = 'https://www.instagram.com/tubanblackhat22'; 
+const telegram = 'https://t.me/Fatoni_Gans'; 
 const kapanbotaktif = 'Jam 07.00-22.00'; 
-const youtube = 'https://youtube.com/channel/UC9Jta2AfRlxpUBd8UNtI0Yg';
+const youtube = 'https://youtube.com/channel/FATONI23';
 const grupch1 = ' https://chat.whatsapp.com/E4KZMUKo8sBAeZfDxnIDIh'; 
 const grupch2 = 'https://chat.whatsapp.com/LP7FbOuDrEdKSkQM7u87ZD' ; 
 const
